@@ -12,10 +12,20 @@ You have to dodge traffic for as long as possible while other cars come towards 
 
 ---
 
+### *Pong*
+My very first attempt at making the famous classic game, Pong.
+
+*P.S. It's not very well optimized and it was written in 2014, so don't be too harsh.*
+
+`Game.java` \- Main file used to start the game, found [here][2].
+
+---
+
 ### *Retro Hunter*
 Small, incomplete game I've made just to test out animations in Java.
 
-`Game.java` \- Main file to start the game, found [here][2].
+`Game.java` \- Main file to start the game, found [here][3].
 
 [1]: https://github.com/chapmankyle/java-projects/blob/master/Dodger/src/com/chaps/Dodger/Game.java
-[2]: https://github.com/chapmankyle/java-projects/blob/master/Retro%20Hunter/src/com/chaps/RetroHunter/Game.java
+[2]: https://github.com/chapmankyle/java-projects/blob/master/Pong/src/com/chaps/Pong/Game.java
+[3]: https://github.com/chapmankyle/java-projects/blob/master/Retro%20Hunter/src/com/chaps/RetroHunter/Game.java
