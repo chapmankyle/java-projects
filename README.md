@@ -1,4 +1,6 @@
 # Java Projects
+[![License](https://img.shields.io/github/license/chapmankyle/java-projects.svg?color=blue&style=for-the-badge)](https://github.com/chapmankyle/java-projects/blob/master/LICENSE)
+
 Repo for all Java projects
 
 ## Current files include:
